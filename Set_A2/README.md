@@ -5,7 +5,7 @@
 This repository contains an end-to-end practical workflow for exploring a dataset, preparing features, building classification models, segmenting records with K-Means, and comparing model performance. The notebook, input data, saved model artifacts, prediction files, evaluation tables, and output figures are included in this folder.
 
 ---
-
+https://drive.google.com/drive/folders/1ZlJ-P8oj7SNAl0nnTq00EqyWXsbs2uxA?usp=sharing
 ## 📌 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
