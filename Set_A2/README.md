@@ -229,11 +229,7 @@ Use this visualization to review the distribution of values in the data.
 
 ![Data distribution](outputs/figures/data_distibution.png)
 
-### 📊 Histogram
 
-The histogram provides another view of the distribution of the selected variable(s).
-
-![Histogram plot](outputs/figures/hist_plot.png)
 
 ## 📁 Output Files Explained
 
