@@ -5,7 +5,9 @@
 This repository contains an end-to-end practical workflow for exploring a dataset, preparing features, building classification models, segmenting records with K-Means, and comparing model performance. The notebook, input data, saved model artifacts, prediction files, evaluation tables, and output figures are included in this folder.
 
 ---
-https://drive.google.com/drive/folders/1ZlJ-P8oj7SNAl0nnTq00EqyWXsbs2uxA?usp=sharing
+### 📂 Project Overview Video File
+[🔗 View Project Files on Google Drive](https://drive.google.com/drive/folders/1ZlJ-P8oj7SNAl0nnTq00EqyWXsbs2uxA?usp=sharing)
+
 ## 📌 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
@@ -205,11 +207,11 @@ The supplied `cluster_profiles.csv` summarizes four numeric features for each cl
 
 The figures below are embedded from `outputs/figures/`. They should render on GitHub when the README is viewed from the project root.
 
-### 📉 ANN training and validation loss
+### 📈 Data distribution
 
-This curve helps inspect whether training and validation loss improve together and whether the model may be overfitting.
+Use this visualization to review the distribution of values in the data.
 
-![ANN training and validation loss](outputs/figures/ann_loss_curve.png)
+![Data distribution](outputs/figures/data_distibution.png)
 
 ### 🎯 Confusion matrix
 
@@ -217,17 +219,20 @@ A confusion matrix shows correct and incorrect classifications by actual and pre
 
 ![Confusion matrix](outputs/figures/confusion_matrix.png)
 
+### 📉 ANN training and validation loss
+
+This curve helps inspect whether training and validation loss improve together and whether the model may be overfitting.
+
+![ANN training and validation loss](outputs/figures/ann_loss_curve.png)
+
+
 ### 📊 Final model comparison
 
 The comparison figure summarizes the model metrics produced by the notebook.
 
 ![Final model comparison](outputs/figures/final_model_comparison.png)
 
-### 📈 Data distribution
 
-Use this visualization to review the distribution of values in the data.
-
-![Data distribution](outputs/figures/data_distibution.png)
 
 
 
